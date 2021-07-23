@@ -1,6 +1,7 @@
 import React from "react";
 import {Container,Image , Row , Col} from "react-bootstrap";
 
+import "./Home.css"
 
 export default function Aboutus() {
   return (
