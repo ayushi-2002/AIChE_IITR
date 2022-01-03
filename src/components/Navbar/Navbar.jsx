@@ -23,12 +23,12 @@ class NavigationBar extends Component {
                     >
                         <img
                             alt=""
-                            src={`../aiche_logo.png`}
-                            width="30"
-                            height="30"
+                            src={`../aiche_logo.jpeg`}
+                            width="40"
+                            height="40"
                             className="d-inline-block align-top"
                         />
-                    &nbsp;AIChE IIT Roorkee </a
+                    &nbsp;  AIChE IIT Roorkee </a
                     >
                     <button
                         class="navbar-toggler"
@@ -61,7 +61,7 @@ class NavigationBar extends Component {
                                     )
                                 }
                             })}
-                            <a style = {{"color" : "rgb(156 148 148)", "marginTop" : "9px"}} href="#myModal" role="button" data-toggle="modal">Contact Us</a>
+                            <a href="#myModal" class="nav-link" role="button" data-toggle="modal">Contact Us</a> 
                         </ul>
                     </div>
                 </nav>
