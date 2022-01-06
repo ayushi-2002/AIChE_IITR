@@ -16,7 +16,7 @@ export default function Aboutus() {
     >
 
     <br/><br/>
-    <h1 style={{ textAlign:"center",color:"white", borderRadius:"20px",background:"crimson"}}> ABOUT US</h1>
+    <h1 style={{ textAlign:"center",color:"white", borderRadius:"20px",background:"darkblue"}}> ABOUT US</h1>
     <br/>
   <Row >
   <Col xs={12} sm={12} md={12} lg={4} style={{

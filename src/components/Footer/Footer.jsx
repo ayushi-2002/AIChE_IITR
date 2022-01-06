@@ -12,7 +12,7 @@ export default class Footer extends React.Component{
 	<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"></link>
                 <div class="footer-left">
 
-                <img src={`../aiche_logo.jpeg`} id = 'aiche_logo'/>
+                <img src={`../logo/aiche_logo.jpeg`} id = 'aiche_logo'/>
                 <br/><br/>
 
                 <p class="footer-company-name">AIChE IITR &copy; {new Date().getFullYear()}</p>

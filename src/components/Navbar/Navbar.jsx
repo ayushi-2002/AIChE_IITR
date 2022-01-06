@@ -23,7 +23,7 @@ class NavigationBar extends Component {
                     >
                         <img
                             alt=""
-                            src={`../aiche_logo.jpeg`}
+                            src={`../logo/aiche_logo.jpeg`}
                             width="40"
                             height="40"
                             className="d-inline-block align-top"
